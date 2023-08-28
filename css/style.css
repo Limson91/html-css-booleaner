@@ -4,6 +4,11 @@ header {
     background-repeat: repeat-x;
 }
 
+#pattern {
+    background-repeat: repeat-x;
+    height: 100px;
+}
+
 h1 {
     font-size: 35px;
     margin-bottom: 10px;
