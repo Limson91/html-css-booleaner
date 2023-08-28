@@ -73,18 +73,18 @@ ul {
     font-size: 14px;
 }
 
-#text_photo1 {
-    position: absolute;
-    top: 92srem;
-    left: 2rem;
-    color:white;
-    font-size: 23px;
+.text_img1 {
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    width: 240px;
+    height: 200px;
+    margin-top: 20px;
 }
 
-#text_photo2 {
-    position: absolute;
-    top: 78rem;
-    left: 2rem;
-    color: white;
-    font-size: 23px;
+.text_img2 {
+    background-image: url(../img/graph.jpg);
+    color:white;
+    width: 240px;
+    height: 200px;
+    margin-bottom: 20px;
 }
