@@ -1,3 +1,8 @@
+header {
+    background-color: #51A6E0;
+    background-image: url("pattern.png");
+}
+
 h1 {
     font-size: 35px;
     margin-bottom: 10px;
@@ -59,4 +64,23 @@ ul {
     height: 3em;
 }
 
+#link {
+    color: gray;
+    font-size: 14px;
+}
 
+.text_top1 {
+    position: absolute;
+    top: 1130px;
+    left: 20px;
+    color: white;
+    font-size: 23px;
+}
+
+.text_top2 {
+    position: absolute;
+    top: 1350px;
+    left: 20px;
+    color: white;
+    font-size: 23px;
+}
