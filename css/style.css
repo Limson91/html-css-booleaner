@@ -1,6 +1,7 @@
 header {
-    background-color: #51A6E0;
-    background-image: url("pattern.png");
+    background:rgb(0, 162, 255);
+    height: 100px;
+    background-repeat: repeat-x;
 }
 
 h1 {
@@ -71,16 +72,16 @@ ul {
 
 .text_top1 {
     position: absolute;
-    top: 1130px;
-    left: 20px;
-    color: white;
+    top: 92srem;
+    left: 2rem;
+    color:white;
     font-size: 23px;
 }
 
 .text_top2 {
     position: absolute;
-    top: 1350px;
-    left: 20px;
+    top: 78rem;
+    left: 2rem;
     color: white;
     font-size: 23px;
 }
