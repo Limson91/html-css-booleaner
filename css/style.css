@@ -19,16 +19,42 @@ h1 {
 }
 
 #photo_source {
-    font-size: 11px;
+    font-size: 12px;
     line-height: 20%;
     margin-bottom: 30px;
+}
+
+.text, #table, #list {
+    font-size: 14px;
+    line-height: 20px;
 }
 
 #evidence {
     background-color: yellow;
 }
 
-ul, li {
-   margin: 0;
-   text-align: left;
+ul {
+    padding-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
+
+table {
+    text-align: left;
+}
+
+#table_titles {
+    background-color: #51A6E0;
+    color: white;
+}
+
+.color_row {
+    background-color: #BCE4F0;
+}
+
+.first_col, .second_col {
+    width: 25%;
+    height: 3em;
+}
+
+
