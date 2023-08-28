@@ -1,21 +1,10 @@
-/* header {
-    background:rgb(0, 162, 255);
-    height: 100px;
-    background-repeat: repeat-x;
-}
-
-#pattern {
-    background-image: url(pattern.png);
-    background-repeat: repeat-x;
-    height: 100px;
-} */
-
 #news_title {
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
     background-size: 40%;
     background-color: #51A6E0;
-    height: 100px;
+    height: 90px;
+    padding: 1%
 }
 
 h1 {
@@ -84,7 +73,7 @@ ul {
     font-size: 14px;
 }
 
-.text_top1 {
+#text_photo1 {
     position: absolute;
     top: 92srem;
     left: 2rem;
@@ -92,7 +81,7 @@ ul {
     font-size: 23px;
 }
 
-.text_top2 {
+#text_photo2 {
     position: absolute;
     top: 78rem;
     left: 2rem;
